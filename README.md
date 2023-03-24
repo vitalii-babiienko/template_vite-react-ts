@@ -2,8 +2,8 @@
 
 # Need to change
 
-- inside vite.config.ts: base: '/<repo>/';
-- inside package.json: "homepage": "https://<user>.github.io/<repo>/";
+- inside vite.config.ts: base: '/repo-name/';
+- inside package.json: "homepage": "https://user-name.github.io/repo-name/";
 
 # dependencies
 
